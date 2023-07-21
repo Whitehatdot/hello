@@ -1,0 +1,186 @@
+*{margin:0;
+
+font-family:Arial, Helvetica, sans-serif;
+border: border-box;
+}
+
+
+.navbar{height:110px;
+background-color: #0f1111;
+color:white;
+display: flex;
+align-items: center;
+justify-content:space-evenly;
+};
+
+
+.nav-logo{
+    height:50px;
+    width:100px;
+}
+
+
+.logo {
+
+   
+background-size: cover;
+    height:100px;
+    width:200px;
+
+ 
+}
+
+.border{
+border:2px solid transparent;
+
+}
+
+.border:hover {
+    border: 2px solid white ;
+
+}
+
+
+/* box 2*/
+.add-first{
+    color: #cccccccc ;
+    font-size: 1rem;
+    margin-left: 15px;
+
+
+    
+
+    }
+
+
+
+.add-second{
+    color: white ;
+    font-size: 1rem;
+    margin-left: 3px;
+}
+
+.add-icon{display: flex;
+        align-items: center;
+
+    }
+
+
+
+    .nav-search{
+        display: flex;
+        background-color: aqua;
+        width: 1000px;
+        height:50px;
+    justify-content:  space-evenly;
+  
+   
+      
+    }
+
+    .search-select{
+        background-color: blanchedalmond;
+        width:50px;
+        text-align: center;
+  
+        border:none;
+    }
+
+
+    .search-input{
+
+        width:100%;
+        border:none;
+    }
+
+
+    .search-icon{
+        width:45px;
+        displaY:flex;
+        justify-content: center;
+        align-items: center;
+      
+        font-size:1.5rem;
+    }
+
+    span{
+        font-size: 0.7rem;
+    }
+
+
+    .nav-second{
+        font-size:0.85rem;
+    }
+
+    .nav-search:hover{border:5px solid orange;}
+
+
+    .nav-cart i{
+        font-size: 35px;
+    }
+
+
+ 
+     .panel{
+        height: 27px;
+        background-color: #222f3d;
+        display: flex;
+        color:blanchedalmond;
+        align-items:center;
+        justify-content: space-evenly;
+       }
+
+       .panel-ops p{
+        display:inline;
+        ;;
+   
+       }
+
+       .panel-ops{width: 70%;
+
+         font: size 0.9rem;
+           }
+     
+           .bold{font-weight:bold;
+            font-size:30px;
+        
+        }
+
+
+        .s{margin-right:40px;
+        font-size: 20px;
+    font-weight:10px ;}
+
+
+    .pen{height: 1000px;
+    width: 100%;}
+
+
+body{background-image: linear-gradient( 180deg, #04FCDE, #04A9FC,#0457FC,#04FC80);
+     }
+
+
+.box{height:340px;width:300px;
+     background-color: antiquewhite;}
+
+     #image{height: 300px;
+    width:300px;}
+
+    .row{displaY:flex;
+    justify-content: space-evenly;
+padding-top:30px;
+padding-bottom:30px;}
+
+
+.break{height:10px;
+width:100%;
+color: #0f1111;}
+
+
+.cus{height:300px;
+width:100%;
+background-color: #0f1111;
+}
+
+.s2{color:antiquewhite;
+padding-top: 30px;}
